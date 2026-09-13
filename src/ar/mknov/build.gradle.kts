@@ -6,7 +6,7 @@ plugins {
 
 keiyoushi {
     name = "Mknov"
-    versionCode = 3
+    versionCode = 1
     contentWarning = ContentWarning.SAFE
 
     source {
